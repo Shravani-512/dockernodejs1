@@ -10,6 +10,6 @@ for (let i = 1; i <= 10; i++) {
     console.log('${number} x ${i} = ${number * i}');
 }
 app.listen(2111,() => {
-           console.log("server is running on port number  211ll")
+           console.log("server is running on port number  211l")
 });
 
